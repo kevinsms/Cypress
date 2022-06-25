@@ -1,3 +1,9 @@
 # Cypress
- <h1>Automação de Casos de Testes em Cypress<h1>
-![Cypress](https://user-images.githubusercontent.com/50053281/175780044-26dacb32-7449-43e4-ad44-4bd93ed02fdb.png)
+<br/>
+<p align="center">
+  <img src="https://miro.medium.com/max/806/1*NvPgYjeU1dR4cDlYOBsszA.png" alt="Sublime's custom image"/>
+</p>
+
+<p align="center">
+ Automação de Casos de Testes em Cypress juntamente com a QAcademy
+<p/>
