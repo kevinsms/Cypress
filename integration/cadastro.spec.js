@@ -9,6 +9,10 @@ describe('Cadastro', () => {
         })
     })
     
+    it('Entrar no Sistema', function()  {
+        signup.go()
+})
+
     it('Usuario deve se tornar um entregador',function()  {
         signup.go()
         signup.fillForm(this.deliver.signup)
